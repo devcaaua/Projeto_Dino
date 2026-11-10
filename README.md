@@ -38,7 +38,7 @@ Comece a jogar!
 Não é necessário instalar nenhuma dependência.
 
 ## 📁 Estrutura do projeto
-text
+
 Jogo-do-Dinossauro/
 │
 ├── index.html
