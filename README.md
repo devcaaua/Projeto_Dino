@@ -39,12 +39,14 @@ Não é necessário instalar nenhuma dependência.
 
 ## 📁 Estrutura do projeto
 
+```text
 Jogo-do-Dinossauro/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ## 💻 Sobre o projeto
 
